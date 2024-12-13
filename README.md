@@ -1,0 +1,2 @@
+# ADC_DAC_Sine_Sqaure_Potentiometer_App
+Sinewave_Squarewave_ADC_DAC_Potentiometer
